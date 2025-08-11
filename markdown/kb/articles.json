@@ -1,0 +1,191 @@
+[
+    {
+        "section": "Billing Panel",
+        "about": "This section contains articles related to the billing panel.",
+        "slug": "billing",
+        "articles": [
+            {
+                "slug": "cancel-a-service",
+                "title": "How To Request a Cancellation",
+                "description": "This article will guide you on how to cancel a service in the billing panel.",
+                "section": "billing",
+                "path": "billing/cancel-a-service"
+            },
+            {
+                "slug": "changing-your-plan",
+                "title": "How to upgrade/downgrade your plan",
+                "description": "This article will guide you on how to upgrade or downgrade a service in the billing panel.",
+                "section": "billing",
+                "path": "billing/changing-your-plan"
+            },
+            {
+                "slug": "server-config",
+                "title": "How to upgrade/downgrade your plan options",
+                "description": "This article will guide you on how to configure your server in the billing panel.",
+                "section": "billing",
+                "path": "billing/server-config"
+            },
+            {
+                "slug": "manage-subusers-on-billing",
+                "title": "How to manage sub users",
+                "description": "This article will guide you on how to manage sub users in your billing panel.",
+                "section": "billing",
+                "path": "billing/manage-subusers-on-billing"
+            }
+        ]
+    },
+    {
+        "section": "Game Hosting",
+        "about": "This section contains articles related to the client panel.",
+        "slug": "game-hosting",
+        "articles": [
+            {
+                "slug": "managing-files",
+                "title": "Managing Files",
+                "description": "This article will guide you on how to manage files in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/managing-files"
+            },
+            {
+                "slug": "automated-schedule",
+                "title": "Automated Schedule",
+                "description": "This article will guide you on how to set up an automated schedule in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/automated-schedule"
+            },
+            {
+                "slug": "minecraft-proxy",
+                "title": "Minecraft Proxy",
+                "description": "This article will guide you on how to set up a Minecraft proxy in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/minecraft-proxy"
+            },
+            {
+                "slug": "mysql-database",
+                "title": "MySQL Database",
+                "description": "This article will guide you on how to create a MySQL database in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/mysql-database"
+            },
+            {
+                "slug": "server-splitting",
+                "title": "Server Splitting",
+                "description": "This article will guide you on how to split a server in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/server-splitting"
+            },
+            {
+                "slug": "player-manager",
+                "title": "Player Manager",
+                "description": "This article will guide you on how to manage players in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/player-manager"
+            },
+            {
+                "slug": "version-manager",
+                "title": "Version Manager",
+                "description": "This article will guide you on how to change Minecraft Versions in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/version-manager"
+            },
+            {
+                "slug": "plugin-manager",
+                "title": "Plugin Manager",
+                "description": "This article will guide you on how to use the Plugin Manager in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/plugin-manager"
+            },
+            {
+                "slug": "mod-installer",
+                "title": "Mod Installer",
+                "description": "This article will guide you on how to use the Mod Installer in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/mod-installer"
+            },
+            {
+                "slug": "server-importer",
+                "title": "Server Importer",
+                "description": "This article will guide you on how to use the Server Importer in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/server-importer"
+            }
+        ]
+    },
+    {
+        "section": "Minecraft",
+        "about": "This section contains articles related to Minecraft Hosting.",
+        "slug": "minecraft",
+        "articles": [
+            {
+                "slug": "player-manager",
+                "title": "Player Manager",
+                "description": "This article will guide you on how to manage players in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/player-manager"
+            },
+            {
+                "slug": "version-manager",
+                "title": "Version Manager",
+                "description": "This article will guide you on how to change Minecraft Versions in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/version-manager"
+            },
+            {
+                "slug": "plugin-manager",
+                "title": "Plugin Manager",
+                "description": "This article will guide you on how to use the Plugin Manager in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/plugin-manager"
+            },
+            {
+                "slug": "mod-installer",
+                "title": "Mod Installer",
+                "description": "This article will guide you on how to use the Mod Installer in the client panel.",
+                "section": "game-hosting",
+                "path": "game-hosting/mod-installer"
+            }
+        ]
+    },
+    {
+        "section": "Rust",
+        "about": "This section contains articles related to Rust Hosting.",
+        "slug": "rust",
+        "articles": [
+            {
+                "slug": "connecting-to-server",
+                "title": "Connecting to your Rust Server",
+                "description": "This article will guide you on how to connect to your Rust server.",
+                "section": "rust",
+                "path": "rust/connecting-to-server"
+            },
+            {
+                "slug": "add-additional-ports",
+                "title": "Adding Additional Ports",
+                "description": "This article will guide you on how to get additional ports for your Rust server.",
+                "section": "rust",
+                "path": "rust/add-additional-ports"
+            },
+            {
+                "slug": "enabling-rustplus",
+                "title": "Enabling Rust+",
+                "description": "This article will guide you on how to enable Rust+ for your  server.",
+                "section": "rust",
+                "path": "rust/enable-rust+"
+            }
+        ]
+    },
+    {
+        "section": "Trouble Shooting",
+        "about": "This section contains articles related to troubleshooting.",
+        "slug": "trouble-shooting",
+        "articles": [
+            {
+                "slug": "console-not-loading",
+                "title": "Console Not Loading",
+                "description": "This article will guide you on how to fix the console not loading issue.",
+                "section": "trouble-shooting",
+                "path": "trouble-shooting/console-not-loading"
+            }
+        ]
+    }
+]
