@@ -9,7 +9,7 @@
                 "title": "How To Change The Timezone",
                 "description": "This article will guide you on how to change the timezone for you/the server.",
                 "section": "client",
-                "path": "Bot/timezone"
+                "path": "bot/timezones"
             }
         ]
     }
