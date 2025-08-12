@@ -4,41 +4,26 @@
     "section": "API",
     "about": "Server & public API changes",
     "articles": [
-      {
-        "slug": "2025-08-10",
-        "title": "API v2.4.1",
-        "description": "Rate-limit bumps and bug fixes",
-        "path": "API/2025-08-10",
-        "tags": ["api", "fix"],
-        "date": "2025-08-10"
-      }
     ]
   },
   {
     "slug": "client",
-    "section": "Client",
-    "about": "Desktop/mobile app updates",
+    "section": "Discord Bot",
+    "about": "Discord Bot updates",
     "articles": [
-      {
-        "slug": "2025-08-08",
-        "title": "Client 1.9.0",
-        "path": "/Client/2025-08-05",
-        "tags": ["client", "feature"],
-        "date": "2025-08-08"
-      }
     ]
   },
   {
     "slug": "website",
     "section": "Website",
-    "about": "Site and docs changes",
+    "about": "Site and Docs changes",
     "articles": [
       {
-        "slug": "2025-08-05",
-        "title": "Website revamp",
-        "path": "/Website/2025-08-05",
+        "slug": "2025-08-12",
+        "title": "Website Version 2",
+        "path": "/Website/2025-08-12",
         "tags": ["website", "ui"],
-        "date": "2025-08-05"
+        "date": "2025-08-12"
       }
     ]
   }
