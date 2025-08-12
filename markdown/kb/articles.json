@@ -13,14 +13,14 @@
             },
             {
                 "slug": "daily-countdown-setup",
-                "title": "How To Change The Setup Daily Countdown Webhook",
+                "title": "Setup Daily Countdown Webhook",
                 "description": "This article will guide you on how to setup and change the Daily Countdown Webhook.",
                 "section": "client",
                 "path": "bot/daily-countdown-setup"
             },
             {
                 "slug": "halloween-event",
-                "title": "How To Change The Setup The Halloween Event",
+                "title": "Setup The Halloween Event",
                 "description": "This article will guide you on how to setup the Halloween Event.",
                 "section": "client",
                 "path": "bot/halloween-event"
