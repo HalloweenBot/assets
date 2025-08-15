@@ -2,7 +2,7 @@
     "name": "@hwb/assets",
     "scripts": {
         "validate:kb": "node validation/kb_layout.js",
-        "validate:pulse": "node validation/pulse_layout.js"
+        "validate:changelog": "node validation/changelog_layout.js"
     },
     "dependencies": {
         "fs": "^0.0.1-security",

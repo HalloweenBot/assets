@@ -24,6 +24,13 @@
                 "description": "This article will guide you on how to setup the Halloween Event.",
                 "section": "client",
                 "path": "bot/halloween-event"
+            },
+            {
+                "slug": "clear-cache",
+                "title": "Seeing Multiple Commands",
+                "description": "This article will guide you on clear the multiple commands you see.",
+                "section": "client",
+                "path": "bot/clear-cache"
             }
         ]
     }

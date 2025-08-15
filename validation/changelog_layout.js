@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const filePath = path.join(__dirname, '../markdown/pulse/articles.json');
+const filePath = path.join(__dirname, '../markdown/changelog/changelogs.json');
 
 function validateJSONStructure(json) {
     if (!Array.isArray(json)) {
