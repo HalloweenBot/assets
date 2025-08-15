@@ -11,6 +11,13 @@
     "section": "Discord Bot",
     "about": "Discord Bot updates",
     "articles": [
+      {
+        "slug": "2025-08-15",
+        "title": "Bot Version: 5.1.2",
+        "path": "/Client/2025-08-15",
+        "tags": ["client", "v5"],
+        "date": "2025-08-15"
+      }
     ]
   },
   {
