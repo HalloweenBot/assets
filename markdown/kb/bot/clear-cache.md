@@ -31,13 +31,13 @@ Clearing the cache can help fix glitches, loading issues, and free up storage.
 2. Press **Win + R**, type:
     ``%appdata%\discord``
     and press **Enter**.  
-![Run appdata](/images/windows_appdata_run.png)
+![Run appdata](https://cdn.halloweenbot.com/images/screenshots/kb/windows_appdata_run.png)
 
 3. Delete these folders:
 - `Cache`
 - `Code Cache`
 - `GPUCache`  
-![Delete cache folders](/images/windows_delete_folders.png)
+![Delete cache folders](https://cdn.halloweenbot.com/images/screenshots/kb/windows_delete_folders.png)
 
 4. Empty your Recycle Bin.
 
