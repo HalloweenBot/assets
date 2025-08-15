@@ -26,7 +26,7 @@ Clearing the cache can help fix glitches, loading issues, and free up storage.
 ### **Windows**
 1. Close Discord completely.  
    *(Right-click in the taskbar → Quit Discord)*  
-   ![Quit Discord](/images/windows_quit_discord.png)
+   ![Quit Discord](https://cdn.halloweenbot.com/images/screenshots/kb/windows_quit_discord.png)
 
 2. Press **Win + R**, type:
     ``%appdata%\discord``
