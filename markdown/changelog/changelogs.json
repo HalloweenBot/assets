@@ -13,10 +13,17 @@
     "articles": [
       {
         "slug": "2025-08-15",
-        "title": "Bot Version: 5.1.2",
+        "title": "Mention Support",
         "path": "/Client/2025-08-15",
         "tags": ["client", "v5"],
         "date": "2025-08-15"
+      },
+      {
+        "slug": "2025-08-17",
+        "title": "Bot Version: 5.1.2",
+        "path": "/Client/2025-08-17",
+        "tags": ["client", "v5"],
+        "date": "2025-08-17"
       }
     ]
   },
