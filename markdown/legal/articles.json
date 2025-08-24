@@ -1,0 +1,37 @@
+[
+    {
+        "section": "Legal Area",
+        "about": "This section contains all of our policies and legal information.",
+        "slug": "legal",
+        "articles": [
+            {
+                "slug": "timezones",
+                "title": "How To Change The Timezone",
+                "description": "This article will guide you on how to change the timezone for you/the server.",
+                "section": "client",
+                "path": "bot/timezones"
+            },
+            {
+                "slug": "daily-countdown-setup",
+                "title": "Setup Daily Countdown Webhook",
+                "description": "This article will guide you on how to setup and change the Daily Countdown Webhook.",
+                "section": "client",
+                "path": "bot/daily-countdown-setup"
+            },
+            {
+                "slug": "halloween-event",
+                "title": "Setup The Halloween Event",
+                "description": "This article will guide you on how to setup the Halloween Event.",
+                "section": "client",
+                "path": "bot/halloween-event"
+            },
+            {
+                "slug": "clear-cache",
+                "title": "Seeing Multiple Commands",
+                "description": "This article will guide you on clear the multiple commands you see.",
+                "section": "client",
+                "path": "bot/clear-cache"
+            }
+        ]
+    }
+]
