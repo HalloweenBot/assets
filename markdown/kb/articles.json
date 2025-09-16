@@ -33,5 +33,19 @@
                 "path": "bot/clear-cache"
             }
         ]
+    },
+    {
+        "section": "Language Support",
+        "about": "This section contains articles related to Languages.",
+        "slug": "locale",
+        "articles": [
+            {
+                "slug": "timezones",
+                "title": "Languages We Support",
+                "description": "This article will guide you on what languages HalloweenBot currently supports",
+                "section": "locale",
+                "path": "locale/lang-support"
+            }
+        ]
     }
 ]
