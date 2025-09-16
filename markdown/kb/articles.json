@@ -40,7 +40,7 @@
         "slug": "locale",
         "articles": [
             {
-                "slug": "language-support",
+                "slug": "lang-support",
                 "title": "Languages We Support",
                 "description": "This article will guide you on what languages HalloweenBot currently supports",
                 "section": "locale",
