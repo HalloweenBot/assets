@@ -1,12 +1,5 @@
 [
-  {
-    "slug": "api",
-    "section": "API",
-    "about": "Server & public API changes",
-    "articles": [
-    ]
-  },
-  {
+    {
     "slug": "client",
     "section": "Discord Bot",
     "about": "Discord Bot updates",
@@ -24,6 +17,13 @@
         "path": "/Client/2025-08-15",
         "tags": ["client", "v5"],
         "date": "2025-08-15"
+      },
+      {
+        "slug": "2025-09-22",
+        "title": "Language & Error Patch",
+        "path": "/Client/2025-09-22",
+        "tags": ["client", "locale", "language"],
+        "date": "2025-09-22"
       }
     ]
   },
