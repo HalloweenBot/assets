@@ -24,6 +24,13 @@
         "path": "/Client/2025-09-22",
         "tags": ["client", "locale", "language"],
         "date": "2025-09-22"
+      },
+      {
+        "slug": "2025-10-02",
+        "title": "Mini Game Update",
+        "path": "/Client/2025-10-02",
+        "tags": ["client", "minigames", "5.2.1"],
+        "date": "2025-10-02"
       }
     ]
   },
